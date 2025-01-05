@@ -1,2 +1,1 @@
-<img src="![image](https://github.com/user-attachments/assets/51db2c43-c568-4e62-bbdf-1d91914a335d)
-" alt="">
+<img src="https://cdn.discordapp.com/attachments/1325188452886642729/1325300560768929874/image.png?ex=677b49d4&is=6779f854&hm=9de3d67bd1580feddbe868034beef04e31ae5ed5300b8f56e6304bc51210601a&" alt="">
